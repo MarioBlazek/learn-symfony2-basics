@@ -1,0 +1,6 @@
+ni:
+    path: /api/ni
+    methods:
+        - POST
+    defaults:
+        _controller: MBApplicationBundle:Api:ni
